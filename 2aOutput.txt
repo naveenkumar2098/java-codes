@@ -1,0 +1,14 @@
+What do you want to implement?
+1. Stack
+2. Queue
+1
+Is Stack Empty? true
+Contents Stack is: [10, 20, 30, 40, 50, 60]
+Size of Stack is: 6
+Elements are popped.
+Contents Stack is: [10, 20, 30, 40]
+Size of Stack is: 4
+On peeking Stack: 40
+Is Stack Empty?false
+Searching for 30: 2
+Searching for 60: -1
