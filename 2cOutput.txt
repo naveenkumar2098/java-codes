@@ -1,0 +1,9 @@
+Which Interitance do you want to implement?
+1. Single
+2. Multilevel
+3. Hierarchical
+3
+Dell Inspiron
+Working...
+Lenovo YOGA
+Working...
